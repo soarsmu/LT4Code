@@ -43,7 +43,7 @@ There are two ways of replicating our results:
     * codet5_data: the format of the datasets for CodeT5
     * treevul_data: the format of the datasets for TreeVul
 
-* [Here](https://drive.google.com/file/d/1JYNbkhDoJgDr9_-jHWIkCBt7B6WEFt0Z/view?usp=share_link) store the prediction files. `./generated_predictions.zip` contains the predictions of each models used in analysis.
+* [Here](https://drive.google.com/file/d/1LIYfJqDopE3X_5rSxedv4WA5tq1bNqN7/view?usp=sharing) store the prediction files. `./generated_predictions.zip` contains the predictions of each models used in analysis.
 
 * `requirments.txt` contains the dependencies needed.
 
